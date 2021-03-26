@@ -1,3 +1,5 @@
+% Make an animation
+
 clear; clf; clc;
 ipfn = 'mri-a.256';
 ipfp = fopen(ipfn, 'r');
